@@ -11,7 +11,7 @@ newThreadBot.Start();
 ```
 ### How do I add a new package?
 
-Example : https://github.com/R-Rex/WakfuLib/blob/master/WakProtocole/Protocole/Auth/Packet17.cs
+Example : https://github.com/R-Rex/WakfuLibrary/blob/master/Protocol/Auth/Packet17.cs
 
 # Functionality
 
