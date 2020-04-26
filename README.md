@@ -1,4 +1,4 @@
-# WakfuLib
+# WakfuLibrary
 Library for creating a wakfu bot
 
 # Documentation
