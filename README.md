@@ -1,4 +1,5 @@
 # WakfuLibrary
+Not updated, this project is for profit to learn reverse engineering knowledge, this project has no affiliation with ANKAMA GAME
 Library for creating a wakfu bot
 
 # Documentation
